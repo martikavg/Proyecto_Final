@@ -35,17 +35,20 @@ El objetivo es identificar los drivers clave de conversión y optimizar la efici
 * **Resultado Previo (`poutcome`):** Es la variable predictiva más fuerte. Los clientes con conversión previa exitosa (`success`) alcanzan un **65,4%** de efectividad, frente al **14,2%** con fallos previos y un **8,8%** en prospectos sin historial.
 * **Estacionalidad:** La tasa de conversión alcanza su punto más alto en **Octubre (~12,0%)** y su valle en **Septiembre (~10,2%)**, influenciada por la evolución de la tasa Euribor 3M.
 
-![Monitoreo Estratégico](1.monitoreo_estrategico.png)
+![Monitoreo Estratégico](1.%20monitoreo_estrategico.png)
 
 ### 2. Segmentación y Perfil del Cliente
 * **Ocupación (`job`):** **Estudiantes (31,4%)** y **Jubilados (25,3%)** muestran el mayor apetito por depósitos. Sectores operativos (*blue-collar* 6,9%, *services* 8,1%) presentan los rendimientos más bajos.
 * **Antigüedad (`Customer_tenure_year`):** Los clientes nuevos (0 a 1 año) convierten al **20,6%**, mientras que la conversión cae paulatinamente hasta el **4,4%** en clientes con 7 años de antigüedad.
 * **Perfil de Deuda:** Contar con préstamos o hipotecas no afecta sustancialmente la conversión (**10,76% – 11,74%**).
 
+![Segmentación y Perfil de Cliente](2.%20segmentacion_perfil_cliente.png)
+
 ### 3. Eficiencia Operativa y Campaña
 * **Regla de Parada Comercial:** La tasa de conversión alcanza su máximo en la 1.ª llamada (**13,0%**) y decae de forma progresiva (2.ª: 11,5%, 3.ª: 10,8%). A partir de la **4.ª llamada (9,2%)**, el retorno no justifica el costo operativo.
 * **Canal de Contacto:** El canal móvil (*cellular*) es casi 3 veces más efectivo (**14,73%**) que el fijo (*telephone*, **5,15%**).
 
+![Eficiencia Operativa](3.%20eficiencia_operativa.png)
 ---
 
 ## 💡 Recomendaciones Estratégicas para el Negocio
