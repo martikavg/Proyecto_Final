@@ -1,6 +1,6 @@
 # 📊 Informe Ejecutivo de Análisis Comercial - Campañas de Marketing Bancario
 
-**Proyecto:** Dashboard de Marketing Bancario  
+**Proyecto:** Dashboard Marketing Bancario  
 **Archivo Power BI:** `Dashboard_Bank_Marketing.pbix`  
 **Herramientas:** Power BI, Python (Pandas/Matplotlib)  
 
