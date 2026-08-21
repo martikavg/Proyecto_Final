@@ -67,9 +67,9 @@ pip install -r requirements.txt
 
 ## 📝 Informe Explicativo del Proyecto y Principales Hallazgos
 
-### 🔍 Resumen del Análisis Exploratorio de Datos (EDA)
+### **🔍 Resumen del Análisis Exploratorio de Datos (EDA)**
 
-### ⚙️ Módulo 1: Transformación, Limpieza e Integración de Datos (Python)
+### Módulo 1: Transformación, Limpieza e Integración de Datos (Python)
 
 ***Integración:*** 
 Unificación mediante merge interno entre `bank-additional.csv` y las 3 pestañas de `customer-details.xlsx` utilizando el identificador único de cliente (ID).
@@ -91,7 +91,7 @@ Unificación mediante merge interno entre `bank-additional.csv` y las 3 pestaña
 * `Customer_tenure_year`: Refleja la antigüedad y lealtad del cliente.
 * `loan` y `housing`: Utilizadas en combinación para medir la carga de endeudamiento y compromiso financiero.
 
-### 📈 Módulo 2: Principales Hallazgos del EDA
+### Módulo 2: Principales Hallazgos del EDA
 
 ***1.	Desbalance de Clientes:*** La tasa global de suscripción al depósito es del 11.3% (yes), frente al 88.7% de rechazo (no).
 
@@ -103,8 +103,8 @@ Unificación mediante merge interno entre `bank-additional.csv` y las 3 pestaña
 
 ***5.	Regla de Parada Comercial:*** La conversión cae drásticamente después de la 3.ª llamada dentro de la misma campaña (`campaign` > 3).
 
-### 📈 Dashboard en Power BI (power_bi/)
 
+### **📈 Dashboard en Power BI** 
 El modelo analítico se desplegó en Power BI (`Dashboard_Bank_Marketing.pbix`) organizado en tres paneles especializados:
 
 ***1. Monitoreo Estratégico y Macroeconómico***
@@ -115,6 +115,7 @@ Análisis demográfico detallado por nivel de ocupación, antigüedad del client
 
 ***3. Eficiencia Operativa y Campaña***
 Rendimiento del equipo comercial según el número de contactos realizados por cliente y la efectividad comparativa del canal de comunicación.
+
 
 ## 💡 Principales Hallazgos y Conclusiones de Negocio
 
